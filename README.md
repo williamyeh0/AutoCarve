@@ -1,0 +1,1 @@
+Automatically detect and remove objects using Mask RCNN and seam carver algorithm
